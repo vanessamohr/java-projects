@@ -18,7 +18,7 @@ import java.util.Date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat; 
 
-// Changes from Task 21
+// Changes from previous task
 // 4 new classes have been added
 // 2 facilitate reading from the text files 'projects.txt' and 'people.txt'
 // 2 facilitate writing to the same text files
